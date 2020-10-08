@@ -8,5 +8,5 @@
   parent: example # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
 
 - title: "Another Child Menu Item"
-  url: "https://example.com"
+  url: "https://example2.com"
   parent: about.md # will make this item a child of the about.md item
