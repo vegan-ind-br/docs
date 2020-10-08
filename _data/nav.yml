@@ -1,6 +1,6 @@
 - title: "Cortadora de Vegetais"
   url: "https://docs.vegan.ind.br/cortadoradevegetais"
-  tab: true # opens this link in a new tab
+  tab: false # opens this link in a new tab
   id: cortadoraveg # will be used as a parent item
 
 - title: "Uso"
