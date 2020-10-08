@@ -1,6 +1,6 @@
 theme: jekyll-materialdocs
 logo: #/path/to/logo.png # an absolute or relative image path to use as the site logo
-mdl_colors: blue_gray # a supported Material Design Lite color scheme
+mdl_colors: indigo-pink # a supported Material Design Lite color scheme
 copyright: Vegan Alimentos # will override the copyright notice (default is site title)
 search: true # enabled by default, set to false to disable site search
 menu_style: dropdown # will only show child menu items for the main item selected
