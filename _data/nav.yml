@@ -9,4 +9,4 @@
 
 - title: "Another Child Menu Item"
   url: "https://example2.com"
-  parent: about.md # will make this item a child of the about.md item
+  parent: example # will make this item a child of the about.md item
