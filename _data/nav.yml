@@ -3,10 +3,10 @@
   tab: false # opens this link in a new tab
   id: cortadoraveg # will be used as a parent item
 
-- title: "Uso"
+- title: "Uso no Menu"
   url: "https://docs.vegan.ind.br/cortadoradevegetais#uso"
   parent: cortadoraveg
 
-- title: "Manutenção"
+- title: "Manutenção no Menu"
   url: "https://docs.vegan.ind.br/cortadoradevegetais#manutencao"
   parent: cortadoraveg 
