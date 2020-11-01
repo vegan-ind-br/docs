@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Cortadora de Vegetais
+title: Cortadora de Legumes
 search: true
-permalink: /cortadoradevegetais
-id: cortadoraveg
+permalink: /cortadoradelegumesfilho
+parent: cortadoraleg
 ---
+# MaterialDocs
+
+**View this theme on [ThemeJekyll](https://themejekyll.github.io/theme/materialdocs/)**
+
+![MaterialDocs Screenshot](screenshot.png)
+
 # Descrição do Produto
 
 ## INTRODUÇÃO:
