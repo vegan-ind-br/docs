@@ -4,7 +4,6 @@ title: Cortadora de Vegetais
 search: true
 permalink: /cortadoradevegetais#filho
 parent: cortadoraveg
-menu_style: dropdown
 ---
 # Descrição do Produto
 

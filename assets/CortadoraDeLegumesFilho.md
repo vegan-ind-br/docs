@@ -4,7 +4,6 @@ title: Cortadora de Legumes
 search: true
 permalink: /cortadoradelegumes#filho
 parent: cortadoraleg
-menu_style: dropdown
 ---
 # MaterialDocs
 
