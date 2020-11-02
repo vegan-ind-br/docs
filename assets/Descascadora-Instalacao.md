@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Descascadora - Instalação
+menu: Instalação
 search: true
 permalink: /descascadora-instalacao
 parent: descascadora

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Descascadora P60
+title: Descascadora
 search: true
 weight: 1
 permalink: /descascadora

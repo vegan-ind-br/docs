@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cortadora de Vegetais - Instalação
+menu: Instalação
 search: true
 permalink: /cortadoradevegetais-instalacao
 parent: cortadoraveg
