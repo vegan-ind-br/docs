@@ -43,9 +43,12 @@ Conforme FOTOS 1 e 2.
 5. Verificar que as duas polias se encontrem na mesma altura para que a correia
 não trabalhe cruzada. Conforme FOTO 3.
 6. Proceder à montagem.
-![FOTO 1](/foto1.png)
-![FOTO 2](/foto2.png)
-![FOTO 3](/foto3.png)
+
+<img align="left" src="foto1.png">
+<p align="center">
+  <img src="foto2.png">
+</p>
+<img align="right" src="foto3.png">
 
 # Lubrificação
 O suporte do eixo de rotação é uma bucha de bronze sobre a qual um rolamento
