@@ -2,7 +2,7 @@
 layout: page
 title: Cortadora de Legumes
 search: true
-permalink: /cortadoradelegumesfilho
+permalink: /cortadoradelegumes#filho
 parent: cortadoraleg
 ---
 # MaterialDocs

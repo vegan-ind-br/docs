@@ -2,7 +2,7 @@
 layout: page
 title: Cortadora de Vegetais
 search: true
-permalink: /cortadoradevegetaisfilho
+permalink: /cortadoradevegetais#filho
 parent: cortadoraveg
 ---
 # Descrição do Produto
