@@ -16,8 +16,10 @@ processo.
 • Nunca abra a tampa de descarga de produtos ou introduza a mão ou qualquer
 tipo de objeto dentro do recipiente com a máquina ligada. Conforme mostram as
 fotos abaixo:
-<p><img align="left" src="assets/centrifugadora/foto6.png">
-<img align="right" src="assets/centrifugadora/foto7.png"></p>
+<p>
+    <img align="left" src="assets/centrifugadora/foto6.png">
+    <img align="right" src="assets/centrifugadora/foto7.png">
+</p><br>
 
 • Sempre desconectar e bloquear o “plug” de energia elétrica antes de efetuar
 reparos ou limpeza nesta máquina;
@@ -46,6 +48,6 @@ A capacidade máxima se determina de acordo com os produtos a centrifugar, a
 velocidade de centrifugação e a resistência dos produtos à centrifugação, em
 tanto não afete o normal funcionamento da mesma.
 
-CARGA MÁXIMA POR CICLO:
+# CARGA MÁXIMA POR CICLO:
 - 4kg para FOLHAS
 - 15kg para LEGUMES
