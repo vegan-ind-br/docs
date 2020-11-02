@@ -44,11 +44,11 @@ Conforme FOTOS 1 e 2.
 não trabalhe cruzada. Conforme FOTO 3.
 6. Proceder à montagem.
 
-<img align="left" src="foto1.png">
+<img align="left" src="assets/centrifugadora/foto1.png">
 <p align="center">
-  <img src="foto2.png">
+  <img src="assets/centrifugadora/foto2.png">
 </p>
-<img align="right" src="foto3.png">
+<img align="right" src="assets/centrifugadora/foto3.png">
 
 # Lubrificação
 O suporte do eixo de rotação é uma bucha de bronze sobre a qual um rolamento
