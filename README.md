@@ -1,5 +1,4 @@
 ---
-menu: false
 search: false
 ---
 # MaterialDocs
