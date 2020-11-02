@@ -7,7 +7,7 @@ permalink: /centrifugadora
 id: centrifugadora
 ---
 
-# Operação Básica:
+# Operação Básica: 
 O Princípio de funcionamento das Centrifugadoras CE 350 consiste em gerar
 um movimento rotativo do produto para acelerar o escorrido da água superficial
 restante depois da lavagem. 
