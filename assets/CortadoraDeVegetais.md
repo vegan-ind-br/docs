@@ -2,6 +2,7 @@
 layout: page
 title: Cortadora de Vegetais
 search: true
+weight: 2
 permalink: /cortadoradevegetais
 id: cortadoraveg
 ---

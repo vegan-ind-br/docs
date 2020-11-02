@@ -1,3 +1,7 @@
+---
+menu: false
+search: false
+---
 # MaterialDocs
 
 **View this theme on [ThemeJekyll](https://themejekyll.github.io/theme/materialdocs/)**
