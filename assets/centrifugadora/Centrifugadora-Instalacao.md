@@ -2,6 +2,7 @@
 layout: page
 title: Centrifugadora - Instalação
 menu: Instalação
+weight: 1
 search: true
 permalink: /centrifugadora-instalacao
 parent: centrifugadora
