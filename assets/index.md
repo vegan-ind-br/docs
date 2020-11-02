@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Hello World
+title: Manuais de Maquinários
 search: true
 permalink: /
 menu: false
 ---
-# Descrição do Produto
-
-## =)
+Imagem???
