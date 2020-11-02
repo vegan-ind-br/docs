@@ -49,7 +49,7 @@ a terra. É o fio de cor azul.
 A característica de operar com energia elétrica em um ambiente de abundante
 água exige uma particular atenção ao estado da conexão à terra do conjunto
 com regular freqüência.
-Fixação ao Chão
+Fixação ao Chão 
 É imprescindível fixar a máquina no chão, para evitar o deslocamento em
 quanto trabalha. Para isso tem perfurações em cada um dos três pés.
 Entregam-se 3 chumbadores que deverão ser utilizados para fixar ao chão.
