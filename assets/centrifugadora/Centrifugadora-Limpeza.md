@@ -2,7 +2,7 @@
 layout: page
 title: Centrifugadora - Limpeza
 menu: Limpeza
-weight: 4
+weight: 3
 search: true
 permalink: /centrifugadora-limpeza
 parent: centrifugadora
@@ -60,3 +60,6 @@ Para isso, tem que ser engraxado 1 vez a cada 8 horas de uso. A engraxadeira
 Para engraxar é preciso apenas retirar o cesto e no bico da engraxadeira que
 está localizada no centro do porta cesto, engraxa-se (a engraxadeira fornecida
 pela INCALFER) e se faz a lubrificação. Conforme foto abaixo:
+<p align="center">
+  <img src="assets/centrifugadora/foto4.png">
+</p>

@@ -27,12 +27,12 @@ INTERROMPER O PROCESSO, PRESSIONE O
 BOTÃO DE PARADA (VERMELHO), QUE INICIA O
 PROCESSO DE FREIO.
 
-Recomendações Gerais
+# Recomendações Gerais
 • A máquina não está condicionada para resistir a nenhum tipo de pedra,
 madeira, metal ou qualquer outro tipo de material cuja dureza seja superior à
 dos legumes.
 
-Transporte do equipamento
+# Transporte do equipamento
 Alguns cuidados são recomendados sempre que você for transportar o seu
 equipamento, como:
 • Proteja o Quadro de Comando.
@@ -42,6 +42,7 @@ equipamento, como:
 • Tenha especial cuidado em não danificar o motor de acionamento.
 • Sempre que for possível, utilize elevadores com plataforma, devido à máquina
 não dispor de acessórios para amarrá-la ou içá-la.
-Saída de Água
+
+# Saída de Água
 A saída de água deve ser posicionada de acordo com a disponibilidade do
 layout do cliente. Recomenda-se deixar descarregando sempre em um ralo.
